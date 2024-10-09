@@ -105,6 +105,10 @@ body {
     width: 50%;
 }
 
+.box p {
+    text-align: center;
+}
+
 .imageDesc {
     display: flex;
     flex-direction: column;
